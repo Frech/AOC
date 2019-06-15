@@ -1,0 +1,6 @@
+﻿  ProbalidadeParalela.cpp
+C:\Users\Frech\Downloads\ProbalidadeParalela\ProbalidadeParalela\ProbalidadeParalela.cpp(43): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Frech\Downloads\ProbalidadeParalela\ProbalidadeParalela\ProbalidadeParalela.cpp(43): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 3 foram fornecidos
+C:\Users\Frech\Downloads\ProbalidadeParalela\ProbalidadeParalela\ProbalidadeParalela.cpp(44): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Frech\Downloads\ProbalidadeParalela\ProbalidadeParalela\ProbalidadeParalela.cpp(44): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 3 foram fornecidos
+  ProbalidadeParalela.vcxproj -> C:\Users\Frech\Downloads\ProbalidadeParalela\x64\Debug\ProbalidadeParalela.exe

@@ -1,0 +1,6 @@
+﻿  ProbalilidadeSimples.cpp
+C:\Users\Frech\Downloads\ProbalilidadeSimples\ProbalilidadeSimples\ProbalilidadeSimples.cpp(43): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Frech\Downloads\ProbalilidadeSimples\ProbalilidadeSimples\ProbalilidadeSimples.cpp(43): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 3 foram fornecidos
+C:\Users\Frech\Downloads\ProbalilidadeSimples\ProbalilidadeSimples\ProbalilidadeSimples.cpp(44): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Frech\Downloads\ProbalilidadeSimples\ProbalilidadeSimples\ProbalilidadeSimples.cpp(44): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 3 foram fornecidos
+  ProbalilidadeSimples.vcxproj -> C:\Users\Frech\Downloads\ProbalilidadeSimples\Debug\ProbalilidadeSimples.exe
